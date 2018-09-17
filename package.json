@@ -1,0 +1,10 @@
+{
+  "name": "tebukuro-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "ytorii <metalwarrior_type_jp@hotmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start:dev": "bundle exec jekyll s -s docs/"
+  }
+}
